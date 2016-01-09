@@ -8,7 +8,7 @@ layout: blog
     <div class='mod modBlogPost big'>
       <div class='images'>
         {% for image in page.images %}
-          <div class='image'><img alt="" src="{{site.url}}/{{image}}/{{posts}}" /></div>
+          <div class='image'><img alt="" src="{{site.url}}/{{image}}{{posts}}"/></div>
         {% endfor %}
       </div>
       <div class='content'>

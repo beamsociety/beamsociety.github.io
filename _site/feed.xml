@@ -3,10 +3,10 @@
   <channel>
     <title>BEAMS</title>
     <description>BioEngineering At McMaster Society (BEAMS) - a student-run society designed to serve and represent students currently in or interested in a BioEngineering program at McMaster University. This website is your go-to resource for information regarding upcoming events held by BEAMS.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Jan 2016 00:40:29 -0500</pubDate>
-    <lastBuildDate>Sat, 09 Jan 2016 00:40:29 -0500</lastBuildDate>
+    <link>http://beamsociety.ca/</link>
+    <atom:link href="http://beamsociety.ca/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 09 Jan 2016 10:49:27 -0500</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2016 10:49:27 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -66,8 +66,8 @@
 &lt;p&gt;Visit the &lt;a href=&quot;https://www.facebook.com/events/450410658502519/&quot;&gt;facebook event page &lt;/a&gt; for more information and to RSVP. &lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Jan 2016 03:00:00 -0500</pubDate>
-        <link>/events/2016/01/07/industry-night.html</link>
-        <guid isPermaLink="true">/events/2016/01/07/industry-night.html</guid>
+        <link>http://beamsociety.ca/events/2016/01/07/industry-night.html</link>
+        <guid isPermaLink="true">http://beamsociety.ca/events/2016/01/07/industry-night.html</guid>
         
         
         <category>events</category>
@@ -83,8 +83,8 @@
 &lt;p&gt;If you have any questions, concern, or feedback please &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#098;&amp;#101;&amp;#097;&amp;#109;&amp;#115;&amp;#111;&amp;#099;&amp;#105;&amp;#101;&amp;#116;&amp;#121;&amp;#046;&amp;#099;&amp;#097;&quot;&gt;contact us&lt;/a&gt;!!&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jan 2016 03:00:00 -0500</pubDate>
-        <link>/blog/2016/01/04/welcome.html</link>
-        <guid isPermaLink="true">/blog/2016/01/04/welcome.html</guid>
+        <link>http://beamsociety.ca/blog/2016/01/04/welcome.html</link>
+        <guid isPermaLink="true">http://beamsociety.ca/blog/2016/01/04/welcome.html</guid>
         
         
         <category>blog</category>
@@ -111,8 +111,8 @@
 &lt;p&gt;Visit the &lt;a href=&quot;https://www.facebook.com/events/1261574737201596/&quot;&gt;facebook event page &lt;/a&gt; for more information and to RSVP. &lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Nov 2015 03:00:00 -0500</pubDate>
-        <link>/events/2015/11/25/destresser.html</link>
-        <guid isPermaLink="true">/events/2015/11/25/destresser.html</guid>
+        <link>http://beamsociety.ca/events/2015/11/25/destresser.html</link>
+        <guid isPermaLink="true">http://beamsociety.ca/events/2015/11/25/destresser.html</guid>
         
         
         <category>events</category>
@@ -134,8 +134,8 @@
 &lt;p&gt;Visit the &lt;a href=&quot;https://www.facebook.com/events/1014257531952489&quot;&gt;facebook event page &lt;/a&gt; for more information and to RSVP. &lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Nov 2015 03:00:00 -0500</pubDate>
-        <link>/events/2015/11/02/grad-night.html</link>
-        <guid isPermaLink="true">/events/2015/11/02/grad-night.html</guid>
+        <link>http://beamsociety.ca/events/2015/11/02/grad-night.html</link>
+        <guid isPermaLink="true">http://beamsociety.ca/events/2015/11/02/grad-night.html</guid>
         
         
         <category>events</category>
@@ -153,8 +153,8 @@
 &lt;p&gt;Visit the &lt;a href=&quot;https://www.facebook.com/events/1463122977330670&quot;&gt;facebook event page &lt;/a&gt; for more information and to RSVP. &lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Sep 2015 04:00:00 -0400</pubDate>
-        <link>/events/2015/09/09/med-talk.html</link>
-        <guid isPermaLink="true">/events/2015/09/09/med-talk.html</guid>
+        <link>http://beamsociety.ca/events/2015/09/09/med-talk.html</link>
+        <guid isPermaLink="true">http://beamsociety.ca/events/2015/09/09/med-talk.html</guid>
         
         
         <category>events</category>
@@ -168,8 +168,8 @@
 &lt;p&gt;In the mean time, &lt;a href=&quot;http://www.eng.mcmaster.ca/graduate/&quot;&gt;click here&lt;/a&gt; for some McMaster Graduate Studies information&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Aug 2015 04:00:00 -0400</pubDate>
-        <link>/academic/2015/08/06/graduate-studies.html</link>
-        <guid isPermaLink="true">/academic/2015/08/06/graduate-studies.html</guid>
+        <link>http://beamsociety.ca/academic/2015/08/06/graduate-studies.html</link>
+        <guid isPermaLink="true">http://beamsociety.ca/academic/2015/08/06/graduate-studies.html</guid>
         
         
         <category>academic</category>
@@ -185,8 +185,8 @@
 &lt;p&gt;&lt;a href=&quot;http://chemeng.mcmaster.ca/undergraduate/bioengineering-sequencing&quot;&gt;Check out the course sequencing after second year engineering!&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Aug 2015 04:00:00 -0400</pubDate>
-        <link>/academic/2015/08/05/chemical-and-bioengineering.html</link>
-        <guid isPermaLink="true">/academic/2015/08/05/chemical-and-bioengineering.html</guid>
+        <link>http://beamsociety.ca/academic/2015/08/05/chemical-and-bioengineering.html</link>
+        <guid isPermaLink="true">http://beamsociety.ca/academic/2015/08/05/chemical-and-bioengineering.html</guid>
         
         
         <category>academic</category>
@@ -200,8 +200,8 @@
 &lt;p&gt;&lt;a href=&quot;http://academiccalendars.romcmaster.ca/preview_program.php?catoid=7&amp;amp;poid=4054&quot;&gt;Check out the course sequencing after second year engineering!&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Aug 2015 04:00:00 -0400</pubDate>
-        <link>/academic/2015/08/04/biotechnology.html</link>
-        <guid isPermaLink="true">/academic/2015/08/04/biotechnology.html</guid>
+        <link>http://beamsociety.ca/academic/2015/08/04/biotechnology.html</link>
+        <guid isPermaLink="true">http://beamsociety.ca/academic/2015/08/04/biotechnology.html</guid>
         
         
         <category>academic</category>
@@ -224,8 +224,8 @@
 &lt;h6 id=&quot;note-taking-biology-in-high-school-although-not-mandatory-for-acceptance-into-engineering-at-mcmaster-or-a-bioengineering-stream-is-recommended-as-it-will-give-you-a-headstart-on-some-topics&quot;&gt;Note: Taking Biology in High School, although not mandatory for acceptance into Engineering at McMaster or a BioEngineering stream, is recommended, as it will give you a headstart on some topics!&lt;/h6&gt;
 </description>
         <pubDate>Mon, 03 Aug 2015 04:00:00 -0400</pubDate>
-        <link>/academic/2015/08/03/hs.html</link>
-        <guid isPermaLink="true">/academic/2015/08/03/hs.html</guid>
+        <link>http://beamsociety.ca/academic/2015/08/03/hs.html</link>
+        <guid isPermaLink="true">http://beamsociety.ca/academic/2015/08/03/hs.html</guid>
         
         
         <category>academic</category>
@@ -287,8 +287,8 @@
 
 </description>
         <pubDate>Sun, 02 Aug 2015 04:00:00 -0400</pubDate>
-        <link>/academic/2015/08/02/first-year-engineering.html</link>
-        <guid isPermaLink="true">/academic/2015/08/02/first-year-engineering.html</guid>
+        <link>http://beamsociety.ca/academic/2015/08/02/first-year-engineering.html</link>
+        <guid isPermaLink="true">http://beamsociety.ca/academic/2015/08/02/first-year-engineering.html</guid>
         
         
         <category>academic</category>
