@@ -18,6 +18,7 @@ section_id: contact
       <div class='medium-8 columns'>
         <div class='form'>
           <div class='row'>
+
             <form id='contact_form' method='POST' action="//formspree.io/contact@beamsociety.ca">
               <div class='large-12 columns'>
                 <p id='thanks' style='display: none;'>
@@ -25,13 +26,18 @@ section_id: contact
                 </p>
               </div>
               <div class='medium-12 columns'>
-                <input class='required' name='name' placeholder='NAME' type='text'>
+    <input type="email" name="_replyto" placeholder="Your email" />
+    <textarea name="message" rows="5" placeholder="Your message"></textarea>
+    <input type="text" name="_gotcha" style="display:none">
+    <button type="submit">Send</button>
+<!--                 <input class='required' name='name' placeholder='NAME' type='text'>
                 <input class='required email' name='_replyto' placeholder='EMAIL' type='email'>
-                <input class='required' name='subject' placeholder='SUBJECT' type='text'>
+                <input class='required' name='_subject' placeholder='SUBJECT' type='hidden' value="Website Contact"/>
                 <textarea class='required' name='message' placeholder='MESSAGE'></textarea>
-                <input class='button white' type='submit' value="Send">
+                <input class='button white' type='submit' value="Send"> -->
               </div>
             </form>
+
           </div>
         </div>
         <div class='two spacing'></div>
