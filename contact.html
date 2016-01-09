@@ -19,19 +19,23 @@ section_id: contact
         <div class='form'>
           <div class='row'>
 
-            <form id='contact_form' method='POST' action=" https://fwdform.herokuapp.com/user/52b6fb40-529a-49d9-a908-232830c47635" accept-charset="UTF-8">
+            <form id='contact_form' method='POST' action=" https://fwdform.herokuapp.com/user/52b6fb40-529a-49d9-a908-232830c47635">
 <!--               <div class='large-12 columns'>
                 <p id='thanks' style='display: none;'>
                   Thanks for contacting us, we'll be in touch soon!
                 </p>
               </div> -->
               <div class='medium-12 columns'>
-                <input class='required' name='name' placeholder='NAME' type='text'>
+                Email: <input type="text" name="email"><br>
+                Name: <input type="text" name="name"><br>
+                Message: <textarea name="message" cols="40" rows="5"></textarea>
+                <input class='button white' type="submit" value="Send Message">
+<!--                 <input class='required' name='name' placeholder='NAME' type='text'>
                 <input class='required email' name='_replyto' placeholder='EMAIL' type='email'>
                 <input class='required' name='_subject' placeholder='SUBJECT' type='hidden' value="Website Contact"/>
                 <textarea class='required' name='message' placeholder='MESSAGE'></textarea>
                 <input type="text" name="_gotcha" style="display:none" />
-                <input class='button white' type='submit' value="Send">
+                <input class='button white' type='submit' value="Send"> -->
               </div>
             </form>
           </div>
