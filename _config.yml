@@ -3,7 +3,7 @@ title: BEAMS
 email: contact@beamsociety.ca
 description: BioEngineering At McMaster Society (BEAMS) - a student-run society designed to serve and represent students currently in or interested in a BioEngineering program at McMaster University. This website is your go-to resource for information regarding upcoming events held by BEAMS.
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://beamsociety.ca" # the base hostname & protocol for your site
+url: "http://beamsociety.ca" # the base hostname & protocol for your site
 twitter_username: beamsociety.ca
 github_username:  beamsociety
 
