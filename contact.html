@@ -50,3 +50,29 @@ section_id: contact
   </div>
   <div class='four spacing'></div>
 </div>
+
+<script type="text/javascript">
+$(function() {
+  $('#newsletter-signup').submit(function(event) {
+    event.preventDefault();
+
+    var formEl = $(this);
+    var submitButton = $('input[type=submit]', formEl);
+
+    $.ajax({
+      type: 'POST',
+      url: formEl.prop('action'),
+      accept: {
+        javascript: 'application/javascript'
+      },
+      data: formEl.serialize(),
+      beforeSend: function() {
+        submitButton.prop('disabled', 'disabled');
+      }
+    }).done(function(data) {
+      submitButton.prop('disabled', false);
+    });
+  });
+});
+
+</script>
