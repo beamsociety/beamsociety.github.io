@@ -1,0 +1,24 @@
+<div class='full parallax' style='background-image: url(images/purple.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Special Thanks" color="#fff" %}
+      <div class='spacing'></div>
+      <p>
+        A speical thank you to companies and university organizations that have come out for our events and supported us!
+      </p>
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modClients' data-slides_to_show='4'>
+        <div class='clients'>
+          {% for client in site.data.clients %}
+            <div><img alt="" src="{{client.image}}" /></div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='two spacing'></div>
+</div>

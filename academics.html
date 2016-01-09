@@ -1,0 +1,77 @@
+---
+layout: default
+title: Portfolio
+section_id: portfolio
+works:
+  - image: images/academic/highschool.jpg
+    title: High School
+    link_to: academic/2015/08/03/hs.html
+    klass: academics
+    desc: The First Step
+  - image: images/academic/firstyear.jpg
+    title: First Year of University
+    link_to:  academic/2015/08/02/first-year-engineering.html
+    klass: academics
+    desc: First Steps in University
+  - image: images/academic/chembio.jpg
+    title: Chemical Engineering and Bioengineering
+    link_to: academic/2015/08/05/chemical-and-bioengineering.html
+    klass: academics
+    desc: Learn more about this unique program 
+  - image: images/academic/elecbio.jpg
+    title: Electrical and Biomedical Engineering
+    link_to: academic/2015/08/01/electrical-and-biomedical-engineering.html
+    klass: academics
+    desc: Learn more about this unique program
+  - image: images/academic/biotech.jpg
+    title: Biotechnology
+    link_to: academic/2015/08/04/biotechnology.html
+    klass: academics
+    desc: Learn about this B.Tech program
+  - image: images/academic/graduate.jpg
+    title: Graduate Studies
+    link_to: academic/2015/08/06/graduate-studies.html
+    klass: academics
+    desc: Interested in MASc, MEng, or Med School?
+---
+
+
+<div class='full parallax' style='background-image: url(images/blue.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Our portfolio" tagline="Have a look at our works" color="#fff" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-9 columns'>
+      <div class='mod modGallery'>
+       <ul class='gallery large-block-grid-3 medium-block-grid-3 small-block-grid-2'>
+
+        {% for work in page.works %}
+          <li class="{{ work.klass }}">
+            <a href='{{ work.link_to }}'>
+              <img alt="" src="{{ work.image }}" />
+              <div class='overlay'>
+                <div class='thumb-info'>
+                  <h3>{{ work.title }}</h3>
+                  <p>{{ work.desc }}</p>
+                </div>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+
+      </ul>
+    </div>
+      <div class='four spacing'></div>
+    </div>
+    <div class='large-3 columns' id='sidebar'>
+      {% include sidebar.html %}
+      <div class='four spacing'></div>
+    </div>
+  </div>
+</div>

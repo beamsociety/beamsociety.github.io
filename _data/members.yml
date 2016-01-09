@@ -1,0 +1,112 @@
+- avatar: images/members/Cece.jpg
+  name: Cece Varrasso
+  position: President
+  socials:
+    - link: mailto:varrasce@mcmaster.ca
+      icon: envelope
+    - link: https://ca.linkedin.com/in/ceceliavarrasso
+      icon: linkedin
+  desc:
+    I love pizza and origami!
+- avatar: images/members/Marina.jpg
+  name: Marina Bockaj
+  position: VP External
+  socials:
+    - link: mailto:bockajm@mcmaster.ca
+      icon: envelope
+  desc:
+    Currently work in medical device research, play basketball, like netflix and looove chilling.
+- avatar: images/members/Marie.jpg
+  name: Marie Price
+  position: VP Internal
+  socials:
+    - link: mailto:pricemr@mcmaster.ca
+      icon: envelope
+  desc: 
+    I love coffee, good food and naps!!!
+- avatar: images/members/Kushal.jpg
+  name: Kushal Panchal
+  position: VP Productions
+  socials:
+    - link: mailto:panchk2@mcmaster.ca
+      icon: envelope
+    - link: http://kushalpanchal.me/
+      icon: laptop
+  desc: 
+    Huge graphic designer enthusiast, intrigued programmer, and aspiring engineer. 
+- avatar: images/members/Katelyn.jpg
+  name: Katelyn Chan
+  position: VP Social
+  socials:
+    - link: mailto:chank8@mcmaster.ca
+      icon: envelope
+  desc: 
+    A huge superhero nerd and Batman fangirl!
+- avatar: images/members/Uma.jpg
+  name: Umatheny Umatheva
+  position: VP Finanace
+  socials:
+    - link: mailto:umatheu@mcmaster.ca
+      icon: envelope
+  desc: 
+    A straight shooter with a love for food.
+- avatar: images/members/Angus.jpg
+  name: Angus Lam 
+  position: Intramural Sports Representative
+  socials:
+    - link: mailto:lama7@mcmaster.ca
+      icon: envelope
+  desc: 
+     You either find me in the lab, gym or playing basketball.
+- avatar: images/members/Katya.jpg
+  name: Katya D'Costa
+  position: VP Administration  
+  socials:
+    - link: mailto:dcostaka@mcmaster.ca
+      icon: envelope
+    - link: https://ca.linkedin.com/in/katyadcosta
+      icon: linkedin
+  desc: 
+     Notorious for bad jokes, serious case of wanderlust and a major sugar addiction, aspires to be a mad scientist!!
+- avatar: images/members/Liane.jpg
+  name: Liane Elizabeth 
+  position: Committee Member
+  socials:
+    - link: mailto:ladoucl@mcmaster.ca
+      icon: envelope
+    - link: https://ca.linkedin.com/in/liane-ladouceur-0140082a
+      icon: linkedin
+  desc: 
+    I'm a neuroscience nerd who is always ready for a new adventure
+- avatar: images/members/Aditya.jpg
+  name: Aditya Thakkar
+  position: Second Year BioMed Representative
+  socials:
+    - link: mailto:thakkaap@mcmaster.ca
+      icon: envelope
+  desc: 
+    Aspiring engineer
+- avatar: images/members/Jacob.jpg
+  name: Jacob Barclay
+  position: Chemical Engineering Representative
+  socials:
+    - link: mailto:barclajr@mcmaster.ca
+      icon: envelope
+  desc: 
+    Aspiring engineer
+- avatar: images/members/Prasann.jpg
+  name: Prasann Pandya
+  position: Electrical Engineering Representative
+  socials:
+    - link: mailto:pandyp@mcmaster.ca
+      icon: envelope
+  desc: 
+    Aspiring Engineer
+- avatar: images/members/photo-1.jpg
+  name: Cristina Alfano
+  position: MES Representative
+  socials:
+    - link: mailto:alfanoce@mcmaster.ca
+      icon: envelope
+  desc: 
+    Aspiring Engineer
