@@ -102,13 +102,13 @@
       icon: envelope
   desc: 
     Aspiring Engineer
-- avatar: images/members/photo-1.jpg
-  name: Cristina Alfano
-  position: MES Representative
-  socials:
-    - link: mailto:alfanoce@mcmaster.ca
-      icon: envelope
-    - link: https://www.linkedin.com/in/cristinaalfano
-      icon: linkedin
-  desc: 
-    I love alt rock, weird fruits, colouring books, and hiking for an amazing view.
+# - avatar: images/members/photo-1.jpg
+#   name: Cristina Alfano
+#   position: MES Representative
+#   socials:
+#     - link: mailto:alfanoce@mcmaster.ca
+#       icon: envelope
+#     - link: https://www.linkedin.com/in/cristinaalfano
+#       icon: linkedin
+#   desc: 
+#     I love alt rock, weird fruits, colouring books, and hiking for an amazing view.
