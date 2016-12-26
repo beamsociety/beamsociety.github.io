@@ -37,7 +37,7 @@
   desc: 
     Hello! I love being creative, and specifically I love to draw! I've spent days sitting around campus drawing McMaster buildings!
 - avatar: images/members_final/Darren.jpg
-  name: Darren Chang	
+  name: Darren Chang    
   position: Web Architect
   socials:
     - link: mailto:changd@mcmaster.ca
@@ -51,7 +51,7 @@
     - link: mailto:suanmx@mcmaster.ca 
       icon: envelope
   desc: 
-    I look forward to a great year with all of you!	
+    I look forward to a great year with all of you! 
 - avatar: images/members_final/Milos.jpg
   name: Milos Bijelic
   position: VP Productions
@@ -59,7 +59,7 @@
     - link: mailto:bijelm3@mcmaster.ca 
       icon: envelope
   desc: 
-    My interests include PCB design, autonomous robotics, wearable technology and mathematical modelling.	
+    My interests include PCB design, autonomous robotics, wearable technology and mathematical modelling.   
 - avatar: images/members_final/Ian.jpg
   name: Ian Gough
   position: Sports Representative
@@ -88,7 +88,7 @@
   name: Lauren Liu
   position: 2nd Year Representative
   socials:
-    - link: mailto:beams@macengsociety.ca
+    - link: mailto:liulj2@mcmaster.ca
       icon: envelope
   desc: 
     Lives in a onesie.
@@ -98,13 +98,15 @@
   socials:
     - link: mailto:beams@macengsociety.ca
       icon: envelope
-  desc: 
+  desc:
     Foodie, hobbies photographer and serial binge-watcher of TV shows! That's me in a nutshell.
 - avatar: images/members_final/George.jpg
   name: George Padeigis
   position: 2nd Year Representative
   socials:
-    - link: mailto:beams@macengsociety.ca
+    - link: https://www.linkedin.com/in/georgepadeigis
+      icon: linkedin
+    - link: mailto:padeigig@mcmaster.ca
       icon: envelope
   desc: 
     I’m passionate, hardworking, and determined. I really care for people, I love solving difficult problems, and I love dreaming about the future.
@@ -116,3 +118,19 @@
       icon: envelope
   desc: 
     I am an aspiring engineer in my second year of Engineering. In my free time I enjoy meeting new people and spending time outdoors.
+- avatar: images/members_final/Kathleen.jpg
+  name: Kathleen Margaret
+  position: VP Administration
+  socials:
+    - link: mailto:ingramkm@mcmaster.ca
+      icon: envelope
+  desc:
+    Passionate about bioengineering with a love for new experiences and adventures
+- avatar: images/members_final/Prateek.jpg
+  name: Prateek Mathur
+  position: ECE Representative
+  socials:
+    - link: mailto:mathurp@mcmaster.ca 
+      icon: envelope
+  desc:
+    4th Year Engineering
