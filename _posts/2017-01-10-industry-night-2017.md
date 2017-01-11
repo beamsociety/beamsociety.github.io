@@ -16,12 +16,12 @@ We will also be serving FREE PIZZA, COFFEE, AND OTHER REFRESHMENTS!
 
 Companies coming include:
 
-Siemens Healthcare - https://www.healthcare.siemens.ca/
-Synaptive Medical -https://www.synaptivemedical.com/
-Baylis Medical - http://www.baylismedical.com/
-Vivosonic - http://www.vivosonic.com/
-Fujifilm Visual Sonics - http://www.visualsonics.com/ 
-Envirosim - http://envirosim.com/
+[Siemens Healthcare](https://www.healthcare.siemens.ca/)
+[Synaptive Medical](https://www.synaptivemedical.com/)
+[Baylis Medical](http://www.baylismedical.com/)
+[Vivosonic](http://www.vivosonic.com/)
+[Fujifilm Visual Sonics](http://www.visualsonics.com/) 
+[Envirosim](http://envirosim.com/)
 
 
 Time: Jan 12th, 2017 at 7 pm
