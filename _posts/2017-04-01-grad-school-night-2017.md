@@ -9,7 +9,7 @@ excerpt:
   Hey guys! Interested in graduate school?  
   
 images: images/posts/grad_school_night_2017.png
-thumb: apr_03.png
+thumb: apr_3.png
 ---
 
 Come out to our Grad School Night on April 3rd at BSB 137! 
