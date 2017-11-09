@@ -7,7 +7,7 @@ categories:
 - blog
 excerpt:
   Interested in Graduate School? Come check out the BEAMS Grad School night!
-  More details[here](https://www.facebook.com/events/1787051188260069/). 
+  
 images: images/posts/grad_night_banner_website.png
 thumb: nov_15.png
 ---
@@ -20,3 +20,5 @@ The event will consist of the following:
 3. An open Q&A with graduate students - your chance to ask them anything, from graduate student lifestyle, their path to graduate studies, etc.! They want to answer your questions!
 
 We hope to see you there! Free, light refreshments will be provided. Please come for 6:50pm to ensure that you get a spot + refreshments!
+
+More details [here](https://www.facebook.com/events/1787051188260069/). 
