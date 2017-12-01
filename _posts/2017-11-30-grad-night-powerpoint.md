@@ -9,7 +9,8 @@ excerpt:
   Hey! Not to worry if you missed Grad Night, the USRE's presentation will be uploaded here!
 thumb: Nov_30.png
 ---
-{% include youtubePlayer.html id=BhG6U3T5pao %}
+
+{% include youtubePlayer.html id="BhG6U3T5pao" %}
 
 Also the link to the youtube recap is found [here](https://www.youtube.com/watch?v=BhG6U3T5pao)
 
