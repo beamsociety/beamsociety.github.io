@@ -1,6 +1,7 @@
-- avatar: images/members_final/Aditya.jpg
+- avatar: images/members_final/Aditya.jpg 
+  row: null
   name: Aditya Thakkar
-  position: President
+  position: VP External
   socials:
     - link: mailto:thakkaap@mcmaster.ca
       icon: envelope
@@ -8,103 +9,32 @@
       icon: linkedin
   desc:
     I'm a huge guitar nerd, obsessed with Game of Thrones and love the BEAMS family!
-- avatar: images/members_final/Liane.jpg
-  name: Liane Ladouceur
-  position: VP External
-  socials:
-    - link: mailto:ladoucl@mcmaster.ca
-      icon: envelope
-    - link: https://ca.linkedin.com/in/liane-ladouceur-0140082a
-      icon: linkedin
-  desc:
-    Passionate about improving the healthcare system. Always happy to chat about all things biomedical!
-- avatar: images/members_final/E2.jpg
-  name: E2
-  position: VP External
-  socials:
-    - link: mailto:hsiaoy@mcmaster.ca 
-      icon: envelope
-  desc: 
-    Piano player and Java enthusiast "coffee"
-- avatar: images/members_final/Jessica.jpg
+- avatar: images/members_2017-18/Jessica.jpg 
+  row: null
   name: Jessica Trac
-  position: VP Internal
+  position: VP Acedemic
   socials:
     - link: mailto:tracj2@mcmaster.ca
       icon: envelope
     - link: https://ca.linkedin.com/in/jessica-trac-41bb84b6
       icon: linkedin
   desc: 
-    Hello! I love being creative, and specifically I love to draw! I've spent days sitting around campus drawing McMaster buildings!
-- avatar: images/members_final/Darren.jpg
+    I’m an arts enthusiastic, super into biomedical innovations, and learning/doing/eating as much as I can!
+- avatar: images/members_final/Darren.jpg 
+  row: null
   name: Darren Chang    
-  position: Web Architect
+  position: Technical Director
   socials:
     - link: mailto:changd@mcmaster.ca
       icon: envelope
     - link: https://www.linkedin.com/in/darren-tj-chang
-      icon: linkedin    
+      icon: linkedin
   desc: 
     Computer and tech enthusiast! I enjoy designing graphics in photoshop and building computers!
-- avatar: images/members_final/Mark.jpg
-  name: Mark Suan
-  position: VP Social
-  socials:
-    - link: mailto:suanmx@mcmaster.ca 
-      icon: envelope
-  desc: 
-    I look forward to a great year with all of you! 
-- avatar: images/members_final/Milos.jpg
-  name: Milos Bijelic
-  position: VP Productions
-  socials:
-    - link: mailto:bijelm3@mcmaster.ca 
-      icon: envelope
-  desc: 
-    My interests include PCB design, autonomous robotics, wearable technology and mathematical modelling.   
-- avatar: images/members_final/Ian.jpg
-  name: Ian Gough
-  position: Sports Representative
-  socials:
-    - link: mailto:umatheu@mcmaster.ca
-      icon: envelope
-  desc: 
-    4th year student who loves ultimate frisbee. I balance ultimate with researching ways to produce viruses, and school work.
-- avatar: images/members_final/Jacob.jpg
-  name: Jacob Barclay
-  position: VP Finance
-  socials:
-    - link: mailto:barclajr@mcmaster.ca 
-      icon: envelope
-  desc: 
-     I love classic rock and tacos.
-- avatar: images/members_final/Sophie.jpg
-  name: Sophie Emerson
-  position: Chemical Engineering Representative  
-  socials:
-    - link: mailto:emersosc@mcmaster.ca
-      icon: envelope
-  desc: 
-    Big fan of doing research, listening to music, and making bad jokes!
-- avatar: images/members_final/Lauren.jpg
-  name: Lauren Liu
-  position: 2nd Year Representative
-  socials:
-    - link: mailto:liulj2@mcmaster.ca
-      icon: envelope
-  desc: 
-    Lives in a onesie.
-- avatar: images/members_final/Husain.jpg
-  name: Husain Tapia
-  position: 2nd Year Representative
-  socials:
-    - link: mailto:beams@macengsociety.ca
-      icon: envelope
-  desc:
-    Foodie, hobbies photographer and serial binge-watcher of TV shows! That's me in a nutshell.
-- avatar: images/members_final/George.jpg
+- avatar: images/members_2017-18/George.jpg 
+  row: null
   name: George Padeigis
-  position: 2nd Year Representative
+  position: President
   socials:
     - link: https://www.linkedin.com/in/georgepadeigis
       icon: linkedin
@@ -112,27 +42,122 @@
       icon: envelope
   desc: 
     I’m passionate, hardworking, and determined. I really care for people, I love solving difficult problems, and I love dreaming about the future.
-- avatar: images/members_final/Ana.jpg
-  name: Ana Arezina
-  position: 2nd Year Representative
+- avatar: images/members_2017-18/Andy.jpg 
+  row: null
+  name: Andy Fan
+  position: VP Productions
   socials:
-    - link: mailto:beams@macengsociety.ca
+    - link: mailto:macbeams@mcmaster.ca 
+      icon: envelope
+    - link: https://www.linkedin.com/in/andy-fan-383197145
+      icon: linkedin
+  desc: 
+    Poster boy for BEAMS. 
+- avatar: images/members_final/Lauren.jpg 
+  row: null
+  name: Lauren Liu
+  position: VP Finance
+  socials:
+    - link: mailto:liulj2@mcmaster.ca 
+      icon: envelope
+  desc: 
+     Still in a onezie
+- avatar: images/members_2017-18/Josh.jpg 
+  row: null
+  name: Josh Bierbrier
+  position: VP Internal
+  socials:
+    - link: mailto:macbeams@mcmaster.ca
+      icon: envelope
+  desc:
+    Passionate about Biomedical Engineering :)
+- avatar: images/members_2017-18/Marina.jpg 
+  row: null
+  name: Marina Manoraj
+  position: 2nd Year ChemBio Representative
+  socials:
+    - link: mailto:macbeams@mcmaster.ca
+      icon: envelope
+  desc: 
+    A 2nd year who loves research in drug delivery to the eye, playing the guitar and piano and watching shows.
+- avatar: images/members_final/Husain.jpg 
+  row: null
+  name: Husain Tapia
+  position: VP Administration
+  socials:
+    - link: mailto:macbeams@mcmaster.ca
+      icon: envelope
+  desc:
+    Foodie, hobbies photographer and serial binge-watcher of TV shows! That's me in a nutshell.
+- avatar: images/members_2017-18/Claire.jpg 
+  row: null
+  name: Claire Fine
+  position: VP Social
+  socials:
+    - link: mailto:macbeams@mcmaster.ca
+      icon: envelope
+  desc: 
+    3rd year chemical and bioengineering student passionate about pursuing a career in the medical industry. I love hockey, coffee, math and my friends!
+- avatar: images/members_final/Ana.jpg 
+  row: null
+  name: Ana Arezina
+  position: 3rd Year ChemBio Representative
+  socials:
+    - link: mailto:macbeams@mcmaster.ca
       icon: envelope
   desc: 
     I am an aspiring engineer in my second year of Engineering. In my free time I enjoy meeting new people and spending time outdoors.
-- avatar: images/members_final/Kathleen.jpg
-  name: Kathleen Margaret
-  position: VP Administration
+- avatar: images/members_2017-18/Kevin.jpg 
+  row: null
+  name: Kevin Da
+  position: 2nd Year ChemBio Representative  
   socials:
-    - link: mailto:ingramkm@mcmaster.ca
+    - link: mailto:macbeams@mcmaster.ca
+      icon: envelope
+  desc: 
+    2nd year chemical and bio engineering student interested in environmental and biomedical engineering
+- avatar: images/members_2017-18/Alex.jpg 
+  row: row
+  name: Alex Sotra
+  position: Innovation Director
+  socials:
+    - link: mailto:macbeams@mcmaster.ca
       icon: envelope
   desc:
-    Passionate about bioengineering with a love for new experiences and adventures
-- avatar: images/members_final/Prateek.jpg
-  name: Prateek Mathur
-  position: ECE Representative
+    The combination of engineering principles, and problem solving skills in biomedical applications in order to improve the quality of life of people all across the world is something that I will strive to accomplish throughout my career
+- avatar: images/members_2017-18/Ali.jpg 
+  row: null
+  name: Ali Ammar
+  position: 3rd Year ElecBio Representative
   socials:
-    - link: mailto:mathurp@mcmaster.ca 
+    - link: mailto:macbeams@mcmaster.ca 
       icon: envelope
   desc:
-    4th Year Engineering
+    I love the integration of engineering and medicine. I'm passionate and hardworking and will do anything to get where I want to be. I grind on a daily basis and I'm a full send kind of guy.
+- avatar: images/members_2017-18/Brendan.jpg 
+  row: null
+  name: Brendan Tao
+  position: iBiomed Rep
+  socials:
+    - link: mailto:macbeams@mcmaster.ca
+      icon: envelope
+  desc:
+    I am super passionate about solving complex bio-engineering problems and BEAMS provides me with the perfect platform to do just that with other engineers. In my spare time, I enjoy playing hockey, guitar, and also spending time with good friends. Can't wait for an exciting year with BEAMS
+- avatar: images/members_2017-18/Sharda.jpg 
+  row: null
+  name: Sharda Kotru
+  position: iBiomed Rep
+  socials:
+    - link: mailto:macbeams@mcmaster.ca
+      icon: envelope
+  desc:
+    Hi! I'm 1st a year ibiomed student who loves meeting new people and learning cool things from them. I also have an immense amount of respect for ducks that consistently demand lemonade-vendors to sell them grapes.
+- avatar: images/members_2017-18/Mosana.jpg 
+  row: row
+  name: Mosana Abraha
+  position: iBiomed Rep
+  socials:
+    - link: mailto:macbeams@mcmaster.ca
+      icon: envelope
+  desc:
+    Love playing sports and working out! Super excited to be apart of the BEAMS team.
