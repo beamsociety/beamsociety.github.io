@@ -6,7 +6,7 @@ author: Darren Chang
 categories: 
 - events
 excerpt:
-  BEAMS has invited Dr. Grandfield for our second Lecture Series: Dental Design. 
+  BEAMS has invited Dr. Grandfield for our second Lecture Series in Dental Design. 
 images: images/posts/lectureseries_2018.jpg
 thumb: mar_27.png
 ---
