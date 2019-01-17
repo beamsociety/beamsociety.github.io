@@ -19,7 +19,7 @@
   desc: 
     Elec Bio interested in software. loves going to hackathons, eating McDoubles and playing rugby! Catch me on the ball courts bricking free throws
 - avatar: images/members_2017-18/Alex.jpg 
-  row: row
+  row: null
   name: Alexander Sotra
   position: Media Coordinator 
   socials:
@@ -41,7 +41,7 @@
   desc: 
     ECE + BME. Love learning, helping, trying my best; from medical devices to accelerating our transition to sustainable energy. Catch me engineering at Tesla this year!
 - avatar: images/members_2019/ama.jpg 
-  row: null
+  row: row
   name: Ama Simons
   position: VP Communications
   socials:
@@ -77,7 +77,7 @@
   desc:
     Electrical and biomedical engineering student who likes to curl, paint/sketch and play piano in my spare time!
 - avatar: images/members_2017-18/Sharda.jpg 
-  row: null
+  row: row
   name: Sharda Kotru
   position: 2nd year iBiomed Rep
   socials:
@@ -86,7 +86,7 @@
   desc:
     Electrical and Biomedical engineering student that loves watching bad horror movies and playing video games in her spare time
 - avatar: images/members_2019/ryan.jpg 
-  row: row
+  row: null
   name: Ryan Deus
   position: 3rd Year Elec Bio Rep
   socials:
@@ -95,7 +95,7 @@
   desc:
     I’m a motivated electrical & biomedical engineering student that loves music, sports & Thode library!
 - avatar: images/members_2019/kevin.jpg 
-  row: row
+  row: null
   name: Kevin Gulo
   position: 3rd Year Rep ChemBio
   socials:
@@ -104,7 +104,7 @@
   desc:
     A Chemical & BioEngineering student aspiring to make a difference in medicine. In my spare time you can find me on the football (soccer) pitch. 
 - avatar: images/members_2019/alex.jpg 
-  row: row
+  row: null
   name: Alexandra Whyard
   position: 1st year iBiomed Rep
   socials:
@@ -122,7 +122,7 @@
   desc:
     Software and Biomedical engineering student. Love playing soccer, coding, and above all sleeping.
 - avatar: images/members_2019/anon.jpg 
-  row: row
+  row: null
   name: Alexandra Szewczyk 
   position: Upper Year Rep
   socials:
